@@ -1,0 +1,14 @@
+C:\Users\Nattkreatur\source\repos\Bussen E-nivå\obj\Debug\net6.0\Bussen E-nivå.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nattkreatur\source\repos\Bussen E-nivå\obj\Debug\net6.0\Bussen E-nivå.AssemblyInfoInputs.cache
+C:\Users\Nattkreatur\source\repos\Bussen E-nivå\obj\Debug\net6.0\Bussen E-nivå.AssemblyInfo.cs
+C:\Users\Nattkreatur\source\repos\Bussen E-nivå\obj\Debug\net6.0\Bussen E-nivå.csproj.CoreCompileInputs.cache
+C:\Users\Nattkreatur\source\repos\Bussen E-nivå\bin\Debug\net6.0\Bussen E-nivå.exe
+C:\Users\Nattkreatur\source\repos\Bussen E-nivå\bin\Debug\net6.0\Bussen E-nivå.deps.json
+C:\Users\Nattkreatur\source\repos\Bussen E-nivå\bin\Debug\net6.0\Bussen E-nivå.runtimeconfig.json
+C:\Users\Nattkreatur\source\repos\Bussen E-nivå\bin\Debug\net6.0\Bussen E-nivå.dll
+C:\Users\Nattkreatur\source\repos\Bussen E-nivå\bin\Debug\net6.0\Bussen E-nivå.pdb
+C:\Users\Nattkreatur\source\repos\Bussen E-nivå\obj\Debug\net6.0\Bussen E-nivå.dll
+C:\Users\Nattkreatur\source\repos\Bussen E-nivå\obj\Debug\net6.0\refint\Bussen E-nivå.dll
+C:\Users\Nattkreatur\source\repos\Bussen E-nivå\obj\Debug\net6.0\Bussen E-nivå.pdb
+C:\Users\Nattkreatur\source\repos\Bussen E-nivå\obj\Debug\net6.0\Bussen E-nivå.genruntimeconfig.cache
+C:\Users\Nattkreatur\source\repos\Bussen E-nivå\obj\Debug\net6.0\ref\Bussen E-nivå.dll

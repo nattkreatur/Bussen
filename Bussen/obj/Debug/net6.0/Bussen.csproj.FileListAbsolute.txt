@@ -1,0 +1,14 @@
+C:\Users\Nattkreatur\source\repos\Bussen E-nivå\bin\Debug\net6.0\Bussen.exe
+C:\Users\Nattkreatur\source\repos\Bussen E-nivå\bin\Debug\net6.0\Bussen.deps.json
+C:\Users\Nattkreatur\source\repos\Bussen E-nivå\bin\Debug\net6.0\Bussen.runtimeconfig.json
+C:\Users\Nattkreatur\source\repos\Bussen E-nivå\bin\Debug\net6.0\Bussen.dll
+C:\Users\Nattkreatur\source\repos\Bussen E-nivå\bin\Debug\net6.0\Bussen.pdb
+C:\Users\Nattkreatur\source\repos\Bussen E-nivå\obj\Debug\net6.0\Bussen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nattkreatur\source\repos\Bussen E-nivå\obj\Debug\net6.0\Bussen.AssemblyInfoInputs.cache
+C:\Users\Nattkreatur\source\repos\Bussen E-nivå\obj\Debug\net6.0\Bussen.AssemblyInfo.cs
+C:\Users\Nattkreatur\source\repos\Bussen E-nivå\obj\Debug\net6.0\Bussen.csproj.CoreCompileInputs.cache
+C:\Users\Nattkreatur\source\repos\Bussen E-nivå\obj\Debug\net6.0\Bussen.dll
+C:\Users\Nattkreatur\source\repos\Bussen E-nivå\obj\Debug\net6.0\refint\Bussen.dll
+C:\Users\Nattkreatur\source\repos\Bussen E-nivå\obj\Debug\net6.0\Bussen.pdb
+C:\Users\Nattkreatur\source\repos\Bussen E-nivå\obj\Debug\net6.0\Bussen.genruntimeconfig.cache
+C:\Users\Nattkreatur\source\repos\Bussen E-nivå\obj\Debug\net6.0\ref\Bussen.dll
